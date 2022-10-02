@@ -3384,10 +3384,10 @@
   column-gap: 20px;
 }
 
-/* Nav */
+/* Nav */ 
 
 #nav {
-		background-color: #282828;
+		background-color: #5e42a6 
 		text-align: center;
 		position: fixed;
 		left: 0;
